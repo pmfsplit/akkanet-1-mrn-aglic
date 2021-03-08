@@ -16,5 +16,12 @@ namespace HelloAkka
             Console.WriteLine(Self);
             Console.WriteLine(msg);
         }
+
+        protected override void Unhandled(object message)
+        {
+            Console.WriteLine($"Unhandled: {message}");
+            // Console.WriteLine(message);
+            base.Unhandled(message);
+        }
     }
 }

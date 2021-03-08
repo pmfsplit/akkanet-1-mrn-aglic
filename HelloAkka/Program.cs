@@ -19,6 +19,9 @@ namespace HelloAkka
 
                 actor.Tell("Hello there");
                 actor2.Tell("Hello there you...");
+                actor.Tell(42);
+
+                Console.ReadLine();
             }
         }
     }
