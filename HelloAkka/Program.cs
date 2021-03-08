@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using Akka.Actor;
 
 namespace HelloAkka
@@ -13,14 +14,21 @@ namespace HelloAkka
             {
                 // var actor = new GreeterActor(); // Ne može
                 var props = Props.Create(() => new GreeterActor());
+                
                 var actor = system.ActorOf(props, "ante");
                 var actor2 = system.ActorOf(props, "marin");
                 // var actor2 = system.ActorOf(props, "ante");
 
-                actor.Tell("Hello there");
-                actor2.Tell("Hello there you...");
-                actor.Tell(42);
+                // Console.WriteLine($"Main: {Thread.CurrentThread.ManagedThreadId}");
+                
+                // actor.Tell("Hello there");
+                // actor2.Tell("Hello there you...");
+                // actor.Tell(42);
+                
+                actor.Tell(new Messages.CreateChild());
+                actor.Tell(new Messages.CreateChild());
 
+                
                 Console.ReadLine();
             }
         }
