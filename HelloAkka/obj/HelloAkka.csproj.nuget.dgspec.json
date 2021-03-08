@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/HelloAkka.csproj": {}
+    "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka.csproj": {}
   },
   "projects": {
-    "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/HelloAkka.csproj": {
+    "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/HelloAkka.csproj",
+        "projectUniqueName": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka.csproj",
         "projectName": "HelloAkka",
-        "projectPath": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/HelloAkka.csproj",
+        "projectPath": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka.csproj",
         "packagesPath": "/Users/marinagliccuvic/.nuget/packages/",
-        "outputPath": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/",
+        "outputPath": "/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marinagliccuvic/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Akka": {
+              "target": "Package",
+              "version": "[1.4.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
