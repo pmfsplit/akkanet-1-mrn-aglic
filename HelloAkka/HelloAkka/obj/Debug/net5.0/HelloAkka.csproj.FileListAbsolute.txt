@@ -1,0 +1,15 @@
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/HelloAkka.deps.json
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/HelloAkka.runtimeconfig.json
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/HelloAkka.runtimeconfig.dev.json
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/HelloAkka.dll
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/ref/HelloAkka.dll
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/bin/Debug/net5.0/HelloAkka.pdb
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.csprojAssemblyReference.cache
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.AssemblyInfoInputs.cache
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.AssemblyInfo.cs
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.csproj.CoreCompileInputs.cache
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.dll
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/ref/HelloAkka.dll
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.pdb
+/Users/marinagliccuvic/Documents/GitHub/akkanet-1-mrn-aglic/HelloAkka/HelloAkka/obj/Debug/net5.0/HelloAkka.genruntimeconfig.cache
